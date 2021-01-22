@@ -2,19 +2,35 @@
 ```python
 class Developer:
 
-  def __init__(self,skills,languages):
+  def __init__(self):
     self.skills = []
     self.languages = []
     
   def getSkills(self):
-    self.skills.extend(["Web Development","Reactjs","Flask","Express","Machine Learning","REST Api","SQL","MongoDB"])
-    return self.skills
+    
+    print("My Tech skills:")  
+    print(*self.skills,sep=" | ")
+    print("\n")
     
   def getLanguages(self):
-    self.languages.extend(["Python","Javascript","C"])
-    return self.languages
     
+    print("Programming Languages I am good at:")
+    print(*self.languages,sep=" | ")
+    
+  def addSkills(self,Skills_Acquired):
+      
+      self.skills.extend(Skills_Acquired)
+      
+  def addLanguages(self,Programming_Languages):
+      
+      self.languages.extend(Programming_Languages)
+
 Siddharth_Varangaonkar = Developer()
+
+Siddharth_Varangaonkar.addSkills(["Web Development","Reactjs","Flask","Express","Machine Learning","REST Api","SQL","MongoDB"])
+
+Siddharth_Varangaonkar.addLanguages(["Python","Javascript","C"])
+
 
 Siddharth_Varangaonkar.getSkills()
 
