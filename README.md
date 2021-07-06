@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ```python
 class Developer:
 
@@ -36,6 +36,18 @@ Siddharth_Varangaonkar.getSkills()
 
 Siddharth_Varangaonkar.getLanguages()
 ```
+
+### Hi there 👋
+* I am a full stack developer from India. <br>
+* Designing and developing websites with React, nodejs, express, fastapi, django, postgres, SQL, MongoDB ...
+
+## Connect with me on 🙋‍♂️:
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddharth-varangaonkar-9b4a3a150/)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sidvarangaonkar1905)
+
+
+
 <!--
 **sidv1905/sidv1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
