@@ -27,9 +27,9 @@ class Developer:
 
 Siddharth_Varangaonkar = Developer()
 
-Siddharth_Varangaonkar.addSkills(["Web Development","Reactjs","Flask","Express","Machine Learning","REST Api","SQL","MongoDB"])
+Siddharth_Varangaonkar.addSkills(["Web Development","Reactjs","Flask","Express","Machine Learning","REST Api","MongoDB"])
 
-Siddharth_Varangaonkar.addLanguages(["Python","Javascript","C"])
+Siddharth_Varangaonkar.addLanguages(["Python","Javascript"])
 
 
 Siddharth_Varangaonkar.getSkills()
