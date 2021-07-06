@@ -39,7 +39,7 @@ Siddharth_Varangaonkar.getLanguages()
 
 ### Hi there 👋
 * I am a full stack developer from India. <br>
-* Designing and developing websites with React, nodejs, express, fastapi, django, postgres, SQL, MongoDB ...
+* Designing and developing websites with Javascript and Python mostly.
 
 <!--## Top Languages Used 📊:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidv1905&hide=Tcl)](https://github.com/sidv1905/github-readme-stats)
