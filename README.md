@@ -1,41 +1,5 @@
 
-```python
-class Developer:
 
-  def __init__(self):
-    self.skills = []
-    self.languages = []
-    
-  def getSkills(self):
-    
-    print("My Tech skills:")  
-    print(*self.skills,sep=" | ")
-    print("\n")
-    
-  def getLanguages(self):
-    
-    print("Programming Languages I am good at:")
-    print(*self.languages,sep=" | ")
-    
-  def addSkills(self,Skills_Acquired):
-      
-      self.skills.extend(Skills_Acquired)
-      
-  def addLanguages(self,Programming_Languages):
-      
-      self.languages.extend(Programming_Languages)
-
-Siddharth_Varangaonkar = Developer()
-
-Siddharth_Varangaonkar.addSkills(["Web Development","REST API","Front End Development","Backend Development"])
-
-Siddharth_Varangaonkar.addLanguages(["Python","Javascript"])
-
-
-Siddharth_Varangaonkar.getSkills()
-
-Siddharth_Varangaonkar.getLanguages()
-```
 
 ### Hi there 👋
 * I am a full stack developer from India. <br>
@@ -85,8 +49,44 @@ Siddharth_Varangaonkar.getLanguages()
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sidvarangaonkar1905@gmail.com)
 [<img align="left" alt="stack overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/10994619/siddharth-varangaonkar)
 
+<br/><br/>
+```python
+class Developer:
+
+  def __init__(self):
+    self.skills = []
+    self.languages = []
+    
+  def getSkills(self):
+    
+    print("My Tech skills:")  
+    print(*self.skills,sep=" | ")
+    print("\n")
+    
+  def getLanguages(self):
+    
+    print("Programming Languages I am good at:")
+    print(*self.languages,sep=" | ")
+    
+  def addSkills(self,Skills_Acquired):
+      
+      self.skills.extend(Skills_Acquired)
+      
+  def addLanguages(self,Programming_Languages):
+      
+      self.languages.extend(Programming_Languages)
+
+Siddharth_Varangaonkar = Developer()
+
+Siddharth_Varangaonkar.addSkills(["Web Development","REST API","Front End Development","Backend Development"])
+
+Siddharth_Varangaonkar.addLanguages(["Python","Javascript"])
 
 
+Siddharth_Varangaonkar.getSkills()
+
+Siddharth_Varangaonkar.getLanguages()
+```
 <!--
 **sidv1905/sidv1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
